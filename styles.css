@@ -1,7 +1,18 @@
-div {
-    color: white;
+h1 {
+    color: rgb(236, 189, 189);
+    font-weight: 900;
+    font-size: 30px;
     background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-p {
-    color: red;
+ li {
+    text-align: center;
+    font-size: 24px;
+    background-color: yellow;
+    font-weight: bold;
+    
+}
+button {
+    background-color: brown;
 }
