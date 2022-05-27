@@ -16,3 +16,8 @@ h1 {
 button {
     background-color: brown;
 }
+
+ img {
+    margin: auto;
+    display: block;
+}
